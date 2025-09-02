@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌸✨ AromaLux – Modern Perfume E-Commerce Website 🛍️
+Welcome to **AromaLux**, a **stunning, fully functional perfume website** designed to offer a luxurious online shopping experience This project combines modern UI/UX with **AI-powered features** for a truly interactive user experience ✨
 
-## Getting Started
+## 🚀 Live Demo
+Check out the live website here: [AromaLux](https://codequeen-perfume-website.vercel.app/) 🌐
 
-First, run the development server:
+## 🎨 Features
+* 🏠 **Home / Landing Page:** Elegant landing page with a modern design to showcase perfumes
+* 🛒 **Product Page & Add to Cart:** Seamless shopping experience with interactive add-to-cart functionality
+* 💳 **Stripe Payment Integration:** Secure and smooth checkout with Stripe payment gateway
+* 📝 **About Page & Contact Page:** Professional pages to provide brand info and customer contact
+* 🤖 **AI Chatbot Integration:** Ask any perfume-related questions and get instant AI-powered responses
+* 🎤 **AI Voice Assistant:** Interactive voice assistant introduces the website 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💻 Technologies Used
+* ⚡ **Next.js** – Modern, server-rendered React framework
+* 🔹 **TypeScript** – Strong typing for robust and maintainable code
+* 🎨 **Tailwind CSS** – Sleek, responsive, and modern UI design
+* ✨ **Framer Motion** – Smooth animations and interactive transitions
+* 💳 **Stripe** – Secure payment gateway integration
+* 🤖 **OpenAI / Custom AI Integration** – Chatbot & voice assistant for interactive user experience
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔥 Highlights
+* 📱 Fully responsive design for desktop and mobile
+* 💫 Modern landing page with engaging visuals
+* 🛍️ Complete e-commerce flow with add-to-cart and checkout
+* 🤖 AI Chatbot answers all perfume-related queries intelligently
+* 🎤 AI Voice Assistant provides a dynamic introduction and guidance
+* 🌸 Luxurious UX/UI tailored for perfume lovers
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+### Crafted with passion, innovation, and AI magic by **CodeQueen** 👑✨
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
