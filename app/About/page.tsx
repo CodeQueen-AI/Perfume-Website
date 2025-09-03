@@ -77,7 +77,7 @@ export default function AboutPage() {
         </motion.p>
         <motion.div className="flex justify-center" variants={fadeUp}>
           <Image
-            src="/about.jpg"
+            src="/About.jpg"
             alt="Luxury Perfume"
             width={900}
             height={900}/>
@@ -124,3 +124,4 @@ export default function AboutPage() {
     </section>
   );
 }
+
